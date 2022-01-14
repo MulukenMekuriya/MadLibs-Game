@@ -8,7 +8,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-<h1 align="center">Number Guesser Project</h1>
+<h1 align="center">Python Beginners Projects</h1>
 
   
 </div>
@@ -47,7 +47,7 @@
 ## About The Project
 
 
-This project takes a number from the user and checks it with computer generated random number.
+This project contains a collection of small to mid size python project for a begineer level.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
